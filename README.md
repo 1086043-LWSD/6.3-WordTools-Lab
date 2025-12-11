@@ -1,5 +1,5 @@
-## 6.3 WordTools Lab
-# Line-Based Scanners and Data Algorithms
+# 6.3 WordTools Lab
+## Line-Based Scanners and Data Algorithms
 
 Given a paragraph from a data file (“text.txt”), create three static methods to find the word count, longest word, and shortest word in each line of the paragraph.
 
