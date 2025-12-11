@@ -5,11 +5,11 @@ Given a paragraph from a data file (“text.txt”), create three static methods
 
 Instructions:
   1.	Load the starter code
-    a.	In VS Code, File > Open Folder
-    b.	Navigate to: *repo root*\Chapter 6 – File IO\6.3 WordTools Lab
-    c.	Choose the folder “6.3 WordTools Lab”
-    d.	Click “Select Folder”
-  2.	Follow the instructions found in the source code comments in the file “WordTools.java”
+  2.	In VS Code, File > Open Folder
+  3.	Navigate to: *repo root*\Chapter 6 – File IO\6.3 WordTools Lab
+  4.	Choose the folder “6.3 WordTools Lab”
+  5.	Click “Select Folder”
+  6.	Follow the instructions found in the source code comments in the file “WordTools.java”
 
 This lab will be graded on a rubric similar to the FRQs: comparing it to a canonical solution, checking for correct implementation of certain methods, and checking for correct solutions.
 
