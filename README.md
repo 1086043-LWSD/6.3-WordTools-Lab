@@ -17,4 +17,4 @@ This lab will assess your ability to use `File`, `Scanner`, and `Scanner` method
   1.	Make a changelist, write a summary for your changes, then commit and push your changes to your private repo
   2.	Verify that you have successfully checked in working code to your Github repository
 
-This lab will be graded on a rubric similar to the FRQs: comparing it to a canonical solution, checking for correct implementation of certain methods, and checking for correct solutions. *(see `ScoringGuidelines.md` for more information)*
+This lab will be graded on a rubric similar to the FRQs: comparing it to a canonical solution, checking for the inclusion and correct implementation of certain methods, and checking for correct solutions. *(see `ScoringGuidelines.md` for more information)*
