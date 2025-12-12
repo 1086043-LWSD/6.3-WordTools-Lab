@@ -1,8 +1,5 @@
 // CANONICAL SOLUTION
 
-/* Given a paragraph from a data file (“text.txt”), create three static methods to find 
-the word count, longest word, and shortest word in each line of the paragraph. */
-
 import java.io.*;
 import java.util.*;
 
@@ -34,6 +31,7 @@ public class WordToolsSolution {
 
             lineScan.close();
         }
+        System.out.println();
         input.close();
     }
 
@@ -59,6 +57,7 @@ public class WordToolsSolution {
 
             lineScan.close();
         }
+        System.out.println();
         input.close();
     }
 
@@ -84,6 +83,7 @@ public class WordToolsSolution {
 
             lineScan.close();
         }
+        System.out.println();
         input.close();
     }
 }
