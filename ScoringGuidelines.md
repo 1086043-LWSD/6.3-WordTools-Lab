@@ -3,7 +3,7 @@
 ## Canonical Solution
 See `WordToolsSolution.java` for a canonical solution.
 
-##  Your code should include:
+##  Your code should include these elements:
 - create a `Scanner` that reads a text file
 - create a `Scanner` that reads a line of text
 - use a `while` loop to scan each line
