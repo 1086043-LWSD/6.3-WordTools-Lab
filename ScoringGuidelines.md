@@ -1,5 +1,14 @@
 # Scoring Guidelines
 
+##  Your code should include these elements:
+- create a `Scanner` that reads a text file
+- create a `Scanner` that reads a line of text
+- use a `while` loop to scan each line
+- use `Scanner` methods `hasNextLine()`, `nextLine()`, `hasNext()`, and `next()`
+- close `Scanner` at the end of each method
+- print results and produce correct output
+- use correct syntax for all above
+
 ## Canonical Solution
 ```
 import java.io.*;
@@ -90,15 +99,6 @@ public class WordToolsSolution {
     }
 }
 ```
-
-##  Your code should include these elements:
-- create a `Scanner` that reads a text file
-- create a `Scanner` that reads a line of text
-- use a `while` loop to scan each line
-- use `Scanner` methods `hasNextLine()`, `nextLine()`, `hasNext()`, and `next()`
-- close `Scanner` at the end of each method
-- print results and produce correct output
-- use correct syntax for all above
 
 ## Correct Output
 The program should print the following:
