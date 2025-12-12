@@ -1,5 +1,5 @@
-# 6.3 WordTools Lab
-## Line-Based Scanners and Data Algorithms
+# WordTools Lab Activity Guide
+## 6.3 Line-Based Scanners and Data Algorithms
 
 ### Goal:
 Given a text file, create three static methods to find the word count, longest word, and shortest word of each line in the file.
