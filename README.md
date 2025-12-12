@@ -7,7 +7,7 @@ Given a text file, create three static methods to find the word count, longest w
 This lab will assess your ability to use `File`, `Scanner`, and `Scanner` methods to create line-based scanners and data algorithms.
 
 ### Instructions:
-  1.	Load the starter code in the file "WordTools.java"
+  1.	Load the starter code in the file `WordTools.java`
   2.	You will be given the text file `text.txt`, a main method that calls the methods `wordCount`, `shortestWord`, and `longestWord`, and the headers for those methods
   3.	Follow the source code comments to implement the `wordCount`, `shortestWord`, and `longestWord` methods and complete the `WordTools` program
 
