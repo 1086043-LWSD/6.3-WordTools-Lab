@@ -1,6 +1,9 @@
 # Scoring Guidelines
 
-## Correct Solution -- 5 pts
+## Canonical Solution
+see `WordToolsSolution.java` for a canonical solution
+
+## Correct Output -- 5 pts
 The program should print the following:
 
 ```
