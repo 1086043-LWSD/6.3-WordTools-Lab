@@ -11,7 +11,7 @@ This lab will assess your ability to use File, Scanner, and Scanner methods to c
   2.	You will be given the text file "text.txt", a main method that calls the methods wordCount, shortestWord, and longestWord, and the headers for those methods
   3.	Follow the source code comments to implement the wordCount, shortestWord, and longestWord methods and complete the WordTools program
 
-**NOTE**: Do not make any changes to the text.txt file or main method.
+**NOTE**: Do not make any changes to the text.txt file, main method, or method headers.
 
 ### To submit your code for grading:
   1.	Make a changelist, write a summary for your changes, then commit and push your changes to your private repo
