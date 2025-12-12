@@ -3,7 +3,7 @@
 
 Goal: 
 Given a text file, create three static methods to find the word count, longest word, and shortest word of each line of the file.
-This lab will assess your ability to use File, Scanner, and Scanner methods to create data algorithms.
+This lab will assess your ability to use File, Scanner, and Scanner methods to create line-based scanners and data algorithms.
 
 Instructions:
   1.	Load the starter code in the file "WordTools.java"
